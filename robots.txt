@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://tools.github.ffxiv.cn/sitemap.xml
